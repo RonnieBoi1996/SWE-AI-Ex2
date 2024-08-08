@@ -1,0 +1,6 @@
+Find the students with the highest grade in each class for all classes.
+The program should return a JSON array with each JSON object in the array containing 
+the following fields:
+First,Last,Year,Class,Grade.
+Nothing else should be returned and written to the file by the program.
+If multiple students had the same highest grade, then return any one of them.

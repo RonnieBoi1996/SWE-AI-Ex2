@@ -1,0 +1,5 @@
+Find the student with the highest average grade out of all students that are taking at least 2 courses.
+The program should return only a JSON structure with the following fields:
+First,Last,Year,Average-Grade.
+Nothing else should be returned and written to the file by the program.
+If multiple students had the same highest average grade, then return any one of them.
