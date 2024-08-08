@@ -1,0 +1,4 @@
+query_name:query2
+data_file:class.csv
+columns:First,Last,Year,Class,Grade
+

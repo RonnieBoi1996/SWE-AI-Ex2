@@ -1,4 +1,4 @@
-query_name:class
+query_name:query1
 data_file:class.csv
 columns:First,Last,Year,Class,Grade
 
